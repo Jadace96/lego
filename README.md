@@ -1,0 +1,2 @@
+# lego
+ lerna monorepo

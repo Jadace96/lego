@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "compile": "lerna run compile",
+    "bootstrap": "lerna bootstrap",
+    "link:packages": "lerna run link",
+    "unlink:packages": "lerna run unlink"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2",
+    "typescript": "^3.8.3"
+  }
+}
